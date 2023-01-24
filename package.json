@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "twitter-api-v2": "^1.14.0"
+  },
+  "name": "twitter-api-v2-helper",
+  "description": "This repository shows you how to use the twitter-api-v2 library to programmatically send tweets.",
+  "version": "1.0.0",
+  "main": "tweet.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "twitter-api-v2"
+  ],
+  "author": "Davide Zambiasi",
+  "license": "MIT"
+}
